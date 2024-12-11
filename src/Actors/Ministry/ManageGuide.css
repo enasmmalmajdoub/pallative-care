@@ -1,0 +1,11 @@
+:root {
+    --main-heading-t1-reg-font-family: "Caudex", Helvetica;
+    --main-heading-t1-reg-font-size: 40px;
+    --main-heading-t1-reg-font-style: normal;
+    --main-heading-t1-reg-font-weight: 400;
+    --main-heading-t1-reg-letter-spacing: 0.4px;
+    --main-heading-t1-reg-line-height: 52px;
+    --primarygreen: rgba(79, 183, 131, 1);
+    --secondarylightest-green: rgba(235, 255, 245, 1);
+  }
+  

@@ -1,0 +1,21 @@
+:root {
+    --body-text-body-text-medium-font-family: "Rethink Sans", Helvetica;
+    --body-text-body-text-medium-font-size: 16px;
+    --body-text-body-text-medium-font-style: normal;
+    --body-text-body-text-medium-font-weight: 500;
+    --body-text-body-text-medium-letter-spacing: 0px;
+    --body-text-body-text-medium-line-height: 139.9999976158142%;
+    --body-text-body-text-regular-font-family: "Rethink Sans", Helvetica;
+    --body-text-body-text-regular-font-size: 16px;
+    --body-text-body-text-regular-font-style: normal;
+    --body-text-body-text-regular-font-weight: 400;
+    --body-text-body-text-regular-letter-spacing: 0px;
+    --body-text-body-text-regular-line-height: 139.9999976158142%;
+    --collection-1-border-radius-md: 16px;
+    --collection-1-border-radius-sm: 12px;
+    --primaryprimary-50: rgba(11, 28, 51, 1);
+    --primaryprimary-850: rgba(218, 227, 248, 1);
+    --surface: rgba(242, 245, 250, 1);
+    --white: rgba(254, 254, 254, 1);
+  }
+  
